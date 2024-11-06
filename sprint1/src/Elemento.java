@@ -1,34 +1,11 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class Elemento {
-    private static Elemento nome;
-    String elemento;
-    private static List<Elemento> elementos = new ArrayList<>();
+    int lider;
 
-    public Elemento(String elemento){
-        this.elemento = elemento;
-        elementos.add(this);
+    public Elemento(boolean isLeader) {
+        this.lider = isLeader ? 1 : 0; // Se for líder, lider = 1; caso contrário, lider = 0
     }
 
-    public static void defineLider(Elemento lider){
-        nome = lider;
+    public boolean isLeader() {
+        return lider == 1;
     }
-
-    public static Elemento getLider(){
-        return nome;
-    }
-
-    public String getElemento(){
-        return elemento;
-    }
-
-    public static List<Elemento> getElementos(){
-        return elementos;
-    }
-
-    public void recebeMensagem(String mensagem){
-        System.out.println("Mensagem recebida: " + mensagem);
-    }
-
 }
