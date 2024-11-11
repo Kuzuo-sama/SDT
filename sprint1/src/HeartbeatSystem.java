@@ -1,7 +1,12 @@
 import java.io.IOException;
 import java.net.InetAddress;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.Random;
 
 public class HeartbeatSystem {
+    private static final AtomicInteger clientCounter = new AtomicInteger(0);
+    private static final Random random = new Random();
+
     public static void main(String[] args) {
         boolean isLeader = args.length > 0 && args[0].equals("leader");
 
@@ -22,7 +27,12 @@ public class HeartbeatSystem {
             } else {
                 InetAddress leaderAddress = InetAddress.getByName(Constants.MULTICAST_GROUP);
 
-                Client client = new Client(group, sendPort, receivePort, leaderAddress, receivePort);
+                // Generate unique send and receive ports for each client
+                int clientIndex = clientCounter.incrementAndGet();
+                int clientSendPort = sendPort + clientIndex + random.nextInt(1000);
+                int clientReceivePort = receivePort + clientIndex + random.nextInt(1000);
+
+                Client client = new Client(group, clientSendPort, clientReceivePort, leaderAddress, receivePort);
                 client.start();
             }
 

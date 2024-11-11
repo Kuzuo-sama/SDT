@@ -8,4 +8,5 @@ public class Constants {
     public static final String REPLY_MESSAGE = "REPLY";
     public static final String DOCUMENT_MESSAGE_PREFIX = "Doc v";
     public static final String COMMIT_MESSAGE = "COMMIT";
+    public static final String VERSION_CHECK_MESSAGE = "VERSION_CHECK";
 }
