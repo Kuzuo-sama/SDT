@@ -12,27 +12,34 @@ public class HeartbeatSystem {
 
         try {
             InetAddress group = InetAddress.getByName(Constants.MULTICAST_GROUP);
-            int sendPort = Constants.SEND_PORT;
-            int receivePort = Constants.RECEIVE_PORT;
+            int baseSendPort = Constants.SEND_PORT;
+            int baseReceivePort = Constants.RECEIVE_PORT;
 
             System.out.println("Iniciando HeartbeatSystem");
             System.out.println("Liderança: " + (isLeader ? "Sim" : "Não"));
             System.out.println("Endereço do grupo: " + group.getHostAddress());
-            System.out.println("Porta de envio: " + sendPort);
-            System.out.println("Porta de recebimento: " + receivePort);
+            System.out.println("Porta base de envio: " + baseSendPort);
+            System.out.println("Porta base de recebimento: " + baseReceivePort);
 
             if (isLeader) {
-                Server server = new Server(group, sendPort, receivePort);
+                // Inicia o servidor como líder
+                Server server = new Server(group, baseSendPort, baseReceivePort); // Agora o servidor também precisa da porta de recebimento
                 server.start();
             } else {
+                // Define o endereço do líder como o endereço do grupo multicast
                 InetAddress leaderAddress = InetAddress.getByName(Constants.MULTICAST_GROUP);
 
-                // Generate unique send and receive ports for each client
+                // Gera portas únicas para o cliente
                 int clientIndex = clientCounter.incrementAndGet();
-                int clientSendPort = sendPort + clientIndex + random.nextInt(1000);
-                int clientReceivePort = receivePort + clientIndex + random.nextInt(1000);
+                int clientSendPort = baseSendPort + clientIndex + random.nextInt(1000);
+                int clientReceivePort = baseReceivePort + clientIndex + random.nextInt(1000);
 
-                Client client = new Client(group, clientSendPort, clientReceivePort, leaderAddress, receivePort);
+                System.out.println("Criando cliente com as seguintes portas:");
+                System.out.println("Porta de envio: " + clientSendPort);
+                System.out.println("Porta de recebimento: " + clientReceivePort);
+
+                // Inicia o cliente
+                Client client = new Client(group, clientSendPort, clientReceivePort, leaderAddress, baseReceivePort);
                 client.start();
             }
 

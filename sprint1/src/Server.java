@@ -2,168 +2,158 @@ import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.InetAddress;
 import java.net.MulticastSocket;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Random;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class Server extends Thread {
     private final MulticastSocket socket;
     private final InetAddress group;
     private final int sendPort;
     private final int receivePort;
-    private int ackCount = 0;
-    private boolean awaitingAcks = false;
-    private boolean committed = false;
-    private final Map<String, int[]> arpTable = new HashMap<>(); // ARP table to store client addresses and ports
-    private int documentVersion = 1; // Tracks document version
-    private final Random random = new Random();
+    private final AtomicInteger documentVersion = new AtomicInteger(0); // Versão do documento
+    private int connectedClients = 0; // Contador de clientes conectados
+    private final Set<InetAddress> clients = new HashSet<>(); // Conjunto de clientes
+    private int responsesReceived = 0; // Contador de respostas dos clientes
+    private final int totalClients = 3; // Total de clientes esperados
 
     public Server(InetAddress group, int sendPort, int receivePort) throws IOException {
-        this.socket = new MulticastSocket(receivePort);
         this.group = group;
         this.sendPort = sendPort;
         this.receivePort = receivePort;
-        socket.joinGroup(group); // Join the multicast group
+        this.socket = new MulticastSocket(receivePort);
+        socket.joinGroup(group);
 
-        System.out.println("Server iniciado");
+        System.out.println("Servidor iniciado como líder.");
     }
 
-    public synchronized void receiveJoin(String clientAddress, int clientSendPort, int clientReceivePort) {
-        System.out.println("JOIN recebido do endereço: " + clientAddress + " nas portas " + clientSendPort + " e " + clientReceivePort);
-
-        // Check for port conflicts
-        for (int[] ports : arpTable.values()) {
-            if (ports[0] == clientSendPort || ports[1] == clientReceivePort) {
-                // Ports are in use, generate new ports
-                int newSendPort = sendPort + random.nextInt(1000) + 1;
-                int newReceivePort = receivePort + random.nextInt(1000) + 1;
-                sendNewPorts(clientAddress, newSendPort, newReceivePort);
-                return;
-            }
-        }
-
-        // No port conflicts, add the node to the ARP table
-        arpTable.put(clientAddress, new int[]{clientSendPort, clientReceivePort});
-        System.out.println("Número de nós que se juntaram: " + arpTable.size());
-
-        // Send ACK_JOIN message back to the client
+    // Envia o heartbeat para todos os clientes
+    private void sendHeartbeat() {
         try {
-            String ackMsg = clientAddress + ",ACK_JOIN";
-            byte[] buffer = ackMsg.getBytes();
-            DatagramPacket ackPacket = new DatagramPacket(buffer, buffer.length, InetAddress.getByName(clientAddress), clientReceivePort);
-            socket.send(ackPacket);
-            System.out.println("ACK_JOIN enviado para " + clientAddress);
-        } catch (IOException e) {
-            System.err.println("Erro ao enviar ACK_JOIN: " + e.getMessage());
-        }
-
-        // Send document immediately after receiving a JOIN message
-        sendDocument();
-
-        // Send version check message to all clients
-        sendVersionCheck();
-    }
-
-    public synchronized void sendNewPorts(String clientAddress, int newSendPort, int newReceivePort) {
-        try {
-            String newPortsMsg = "NEW_PORTS," + newSendPort + "," + newReceivePort;
-            byte[] buffer = newPortsMsg.getBytes();
-            DatagramPacket packet = new DatagramPacket(buffer, buffer.length, InetAddress.getByName(clientAddress), receivePort);
+            String heartbeatMessage = Constants.HEARTBEAT_MESSAGE;
+            byte[] buffer = heartbeatMessage.getBytes();
+            DatagramPacket packet = new DatagramPacket(buffer, buffer.length, group, sendPort);
             socket.send(packet);
-            System.out.println("Novas portas enviadas para " + clientAddress + ": " + newSendPort + ", " + newReceivePort);
+            System.out.println("Heartbeat enviado: " + heartbeatMessage);
         } catch (IOException e) {
-            System.err.println("Erro ao enviar novas portas: " + e.getMessage());
+            System.err.println("Erro ao enviar heartbeat: " + e.getMessage());
         }
     }
 
-    public synchronized void sendDocument() {
+    // Envia o documento para todos os clientes
+    private void sendDocumentUpdate() {
         try {
-            if (!awaitingAcks) {
-                String msg = Constants.DOCUMENT_MESSAGE_PREFIX + documentVersion + ": Nova versão do documento...";
-                for (Map.Entry<String, int[]> entry : arpTable.entrySet()) {
-                    String recipient = entry.getKey();
-                    String fullMsg = recipient + "," + msg;
-                    byte[] buffer = fullMsg.getBytes();
-                    DatagramPacket packet = new DatagramPacket(buffer, buffer.length, InetAddress.getByName(recipient), entry.getValue()[1]);
-                    socket.send(packet);
+            int newVersion = documentVersion.get();
+            if (newVersion >= 0 && newVersion < Constants.DOCUMENT_VERSIONS.size()) {
+                String documentMessage = Constants.DOCUMENT_PREFIX + " " + Constants.DOCUMENT_VERSIONS.get(newVersion);
+                byte[] buffer = documentMessage.getBytes();
+    
+                // Envia a mensagem de documento via multicast
+                DatagramPacket packet = new DatagramPacket(buffer, buffer.length, group, sendPort);
+                socket.send(packet);
+                System.out.println("Atualização de documento enviada: " + documentMessage);
+    
+                responsesReceived = 0; // Resetar contador de respostas após enviar o documento
+            } else {
+                System.out.println("Não há mais nada a mandar");
+            }
+        } catch (IOException e) {
+            System.err.println("Erro ao enviar atualização de documento: " + e.getMessage());
+        }
+    }
+
+    // Recebe as mensagens dos clientes
+    private void receiveClientMessages() {
+        byte[] buffer = new byte[256];
+        DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
+        try {
+            socket.receive(packet);
+            String received = new String(packet.getData(), 0, packet.getLength()).trim();
+            System.out.println("Mensagem recebida de cliente: " + received);
+
+            // Processar mensagens do cliente
+            if (received.startsWith(Constants.JOIN_MESSAGE)) {
+                System.out.println("Cliente pediu JOIN. Resposta sendo preparada...");
+                String ackMessage = "ACK_JOIN";
+                byte[] ackBuffer = ackMessage.getBytes();
+                DatagramPacket ackPacket = new DatagramPacket(ackBuffer, ackBuffer.length, packet.getAddress(), packet.getPort());
+                socket.send(ackPacket);
+                System.out.println("ACK_JOIN enviado para o cliente.");
+                connectedClients++;
+                clients.add(packet.getAddress()); // Adiciona cliente à lista de clientes conectados
+
+                // Se pelo menos um cliente se conectou, iniciar envio de heartbeats e atualizações
+                if (connectedClients == 1) {
+                    startHeartbeatAndDocumentUpdates();
                 }
-                awaitingAcks = true;
-                System.out.println("Documento enviado pelo líder: " + msg);
+            } else if (received.startsWith("DOCUMENT_RECEIVED")) {
+                // Processa a confirmação de recebimento do documento
+                String[] parts = received.split(",");
+                int version = Integer.parseInt(parts[1]);
+
+                if (version == documentVersion.get()) {
+                    responsesReceived++;
+                    System.out.println("Resposta positiva recebida para o documento " + version);
+                    if (responsesReceived == totalClients) {
+                        sendNextDocument();  // Enviar o próximo documento após todas as confirmações
+                    }
+                }
+            } else if (received.startsWith(Constants.VERSION_CHECK_MESSAGE)) {
+                System.out.println("Cliente solicitou versão atual.");
+                String versionMessage = Constants.VERSION_CHECK_MESSAGE + "," + documentVersion.get();
+                byte[] versionBuffer = versionMessage.getBytes();
+                DatagramPacket versionPacket = new DatagramPacket(versionBuffer, versionBuffer.length, packet.getAddress(), packet.getPort());
+                socket.send(versionPacket);
+                System.out.println("Versão atual enviada: " + versionMessage);
             }
         } catch (IOException e) {
-            System.err.println("Erro ao enviar documento: " + e.getMessage());
+            System.err.println("Erro ao receber mensagem do cliente: " + e.getMessage());
         }
     }
 
-    public synchronized void sendCommit() {
-        try {
-            String msg = Constants.COMMIT_MESSAGE;
-            for (Map.Entry<String, int[]> entry : arpTable.entrySet()) {
-                String recipient = entry.getKey();
-                String fullMsg = recipient + "," + msg;
-                byte[] buffer = fullMsg.getBytes();
-                DatagramPacket packet = new DatagramPacket(buffer, buffer.length, InetAddress.getByName(recipient), entry.getValue()[1]);
-                socket.send(packet);
-            }
-            committed = true;
-            System.out.println("Commit enviado para todos os elementos.");
-        } catch (IOException e) {
-            System.err.println("Erro ao enviar commit: " + e.getMessage());
+    // Envia o próximo documento após as confirmações
+    private void sendNextDocument() {
+        if (responsesReceived == totalClients) {
+            System.out.println("Todos os clientes confirmaram o recebimento do documento.");
+            sendDocumentUpdate(); // Envia o próximo documento
         }
     }
 
-    public synchronized void sendVersionCheck() {
-        try {
-            String msg = Constants.VERSION_CHECK_MESSAGE + "," + documentVersion;
-            for (Map.Entry<String, int[]> entry : arpTable.entrySet()) {
-                String recipient = entry.getKey();
-                String fullMsg = recipient + "," + msg;
-                byte[] buffer = fullMsg.getBytes();
-                DatagramPacket packet = new DatagramPacket(buffer, buffer.length, InetAddress.getByName(recipient), entry.getValue()[1]);
-                socket.send(packet);
+    // Inicia o envio de heartbeats e atualizações de documentos
+    private void startHeartbeatAndDocumentUpdates() {
+        // Thread para enviar heartbeats
+        new Thread(() -> {
+            while (true) {
+                sendHeartbeat();
+                try {
+                    Thread.sleep(2000); // Intervalo de 2 segundos entre heartbeats
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                }
             }
-            System.out.println("Versão enviada para todos os elementos: " + documentVersion);
-        } catch (IOException e) {
-            System.err.println("Erro ao enviar versão: " + e.getMessage());
-        }
-    }
+        }).start();
 
-    public synchronized void receiveArpReply() {
-        ackCount++;
-        System.out.println("ARP REPLY recebido. Total de ARP REPLYs: " + ackCount);
+        new Thread(() -> {
+            while (true) {
+                sendDocumentUpdate();
+                try {
+                    Thread.sleep(10000); // Intervalo de 2 segundos entre heartbeats
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                }
+            }
+        }).start();
+                
 
-        if (!committed) {
-            sendCommit();
-            awaitingAcks = false;
-            ackCount = 0;
-            documentVersion++; // Update document version after commit
-        }
     }
 
     @Override
     public void run() {
-        while (true) {
-            byte[] buffer = new byte[1024];
-            DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
-            try {
-                socket.receive(packet);
-                System.out.println("Pacote recebido de " + packet.getAddress().getHostAddress());
-                String message = new String(packet.getData(), 0, packet.getLength());
+        System.out.println("Servidor líder em execução. Aguardando clientes...");
 
-                synchronized (this) {
-                    if (message.startsWith(Constants.JOIN_MESSAGE)) {
-                        String[] parts = message.split(",");
-                        String clientAddress = packet.getAddress().getHostAddress();
-                        int clientSendPort = Integer.parseInt(parts[1]);
-                        int clientReceivePort = Integer.parseInt(parts[2]);
-                        receiveJoin(clientAddress, clientSendPort, clientReceivePort);
-                    } else if (message.startsWith(Constants.REPLY_MESSAGE)) {
-                        receiveArpReply();
-                    }
-                }
-            } catch (IOException e) {
-                System.err.println("Erro ao receber pacote: " + e.getMessage());
-            }
+        // Escuta mensagens de clientes
+        while (true) {
+            receiveClientMessages();
         }
     }
 }
