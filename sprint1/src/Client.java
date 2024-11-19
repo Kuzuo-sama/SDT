@@ -8,6 +8,7 @@ public class Client extends Thread {
     private final MulticastSocket multicastSocket;
     private final DatagramSocket unicastSocket;
     private final InetAddress group;
+    private InetSocketAddress socket;
     private int sendPort;
     private int receivePort;
     private final InetAddress leaderAddress;
@@ -23,8 +24,9 @@ public class Client extends Thread {
         this.leaderPort = leaderPort;
 
         this.multicastSocket = new MulticastSocket(receivePort);
+        socket = new InetSocketAddress(group, receivePort);
         multicastSocket.setTimeToLive(255);
-        multicastSocket.joinGroup(group);
+        multicastSocket.joinGroup(socket, null);
 
         this.unicastSocket = new DatagramSocket(receivePort + 1);
 
