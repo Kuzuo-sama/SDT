@@ -4,6 +4,7 @@ import java.net.InetSocketAddress;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.MulticastSocket;
+import java.net.NetworkInterface;
 
 public class Client extends Thread {
     private final MulticastSocket multicastSocket;
@@ -18,22 +19,31 @@ public class Client extends Thread {
     private int documentVersion = 1;
 
     public Client(InetAddress group, int sendPort, int receivePort, InetAddress leaderAddress, int leaderPort) throws IOException {
-        this.group = group;
-        this.sendPort = sendPort;
-        this.receivePort = receivePort;
-        this.leaderAddress = leaderAddress;
-        this.leaderPort = leaderPort;
+    this.group = group;
+    this.sendPort = sendPort;
+    this.receivePort = receivePort;
+    this.leaderAddress = leaderAddress;
+    this.leaderPort = leaderPort;
 
-        this.multicastSocket = new MulticastSocket(receivePort);
-        socket = new InetSocketAddress(group, receivePort);
-        multicastSocket.setTimeToLive(255);
-        multicastSocket.joinGroup(socket, null);
+    // Inicializa o MulticastSocket
+    this.multicastSocket = new MulticastSocket(Constants.SEND_PORT);
 
-        this.unicastSocket = new DatagramSocket(receivePort + 1);
+    // Define o Time-to-Live
+    multicastSocket.setTimeToLive(255);
 
-        System.out.println("Client iniciado na porta " + receivePort);
-        sendJoin();
-    }
+    // Especifica a interface de rede (opcional, se necessário)
+    NetworkInterface networkInterface = NetworkInterface.getByInetAddress(InetAddress.getLocalHost());
+
+    // Junta-se ao grupo multicast
+    multicastSocket.joinGroup(new InetSocketAddress(group, receivePort), networkInterface);
+
+    // Inicializa o UnicastSocket
+    this.unicastSocket = new DatagramSocket(receivePort + 1);
+
+    System.out.println("Client iniciado no grupo multicast: " + group.getHostAddress() + ":" + receivePort);
+    sendJoin();
+}
+
 
     public synchronized void sendJoin() {
         try {
@@ -50,39 +60,77 @@ public class Client extends Thread {
         }
     }
 
+    
     private void receiveMulticastMessage() {
         byte[] buffer = new byte[256];
         DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
+    
         try {
-            multicastSocket.receive(packet);
-            String received = new String(packet.getData(), 0, packet.getLength()).trim();
-            System.out.println("Mensagem recebida via Multicast: " + received);
-            processMessage(received);
+            multicastSocket.setSoTimeout(1);
+            System.out.println("Escutando no grupo multicast: " + group.getHostAddress() + ":" + receivePort);
         } catch (IOException e) {
-            System.err.println("Erro ao receber mensagem multicast: " + e.getMessage());
+            System.err.println("Erro ao configurar tempo limite do socket: " + e.getMessage());
+            return;
+        }
+    
+        System.out.println("Aguardando mensagens multicast...");
+        while (true) {
+            try {
+                multicastSocket.receive(packet);
+                String received = new String(packet.getData(), 0, packet.getLength()).trim();
+                System.out.println("Mensagem recebida via Multicast: " + received);
+                processMessage(received);
+            } catch (java.net.SocketTimeoutException e) {
+                // Timeout silencioso; nenhuma mensagem recebida
+            } catch (IOException e) {
+                System.err.println("Erro ao receber mensagem multicast: " + e.getMessage());
+                break; // Sai do loop em caso de erro crítico
+            }
         }
     }
+    
 
     private void receiveUnicastMessage() {
         byte[] buffer = new byte[256];
         DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
+    
         try {
-            unicastSocket.receive(packet);
-            String received = new String(packet.getData(), 0, packet.getLength()).trim();
-            System.out.println("Mensagem recebida via Unicast: " + received);
-            processMessage(received);
+            // Configura um tempo limite de 2 segundos para o socket
+            unicastSocket.setSoTimeout(1);
         } catch (IOException e) {
-            System.err.println("Erro ao receber mensagem unicast: " + e.getMessage());
+            System.err.println("Erro ao configurar tempo limite do socket: " + e.getMessage());
+            return;
+        }
+    
+        System.out.println("Aguardando mensagens unicast...");
+        while (true) {
+            try {
+                unicastSocket.receive(packet);
+                String received = new String(packet.getData(), 0, packet.getLength()).trim();
+                System.out.println("Mensagem recebida via Unicast: " + received);
+                processMessage(received);
+            } catch (java.net.SocketTimeoutException e) {
+               
+            } catch (IOException e) {
+                System.err.println("Erro ao receber mensagem unicast: " + e.getMessage());
+                break; // Sai do loop em caso de erro crítico
+            }
         }
     }
+    
 
     private void processMessage(String received) {
         if ("ACK_JOIN".equals(received)) {
             System.out.println("ACK_JOIN recebido do líder. Conexão com o grupo confirmada.");
         } else if (received.startsWith(Constants.DOCUMENT_PREFIX)) {
             System.out.println("Documento recebido: " + received);
-            documentVersion = Integer.parseInt(received.split(" ")[1]);
-            sendDocumentReceivedReply();
+            String[] parts = received.split(" ");
+            if (parts.length > 1 && isNumeric(parts[1])) {
+                documentVersion = Integer.parseInt(parts[1]);
+                sendDocumentReceivedReply();
+            } else {
+                System.err.println("Erro: versão do documento inválida.");
+            }
         } else if (received.equals(Constants.COMMIT_MESSAGE)) {
             System.out.println("Commit recebido. Nova versão do documento aplicada.");
         } else if (received.startsWith(Constants.VERSION_CHECK_MESSAGE)) {
@@ -90,10 +138,23 @@ public class Client extends Thread {
             sendVersionReply();
         } else if (received.startsWith("NEW_PORTS")) {
             String[] newPorts = received.split(",");
-            sendPort = Integer.parseInt(newPorts[1]);
-            receivePort = Integer.parseInt(newPorts[2]);
-            System.out.println("Novas portas recebidas do líder: " + sendPort + ", " + receivePort);
-            sendJoin();
+            if (newPorts.length > 2 && isNumeric(newPorts[1]) && isNumeric(newPorts[2])) {
+                sendPort = Integer.parseInt(newPorts[1]);
+                receivePort = Integer.parseInt(newPorts[2]);
+                System.out.println("Novas portas recebidas do líder: " + sendPort + ", " + receivePort);
+                sendJoin();
+            } else {
+                System.err.println("Erro: portas inválidas recebidas.");
+            }
+        }
+    }
+    
+    private boolean isNumeric(String str) {
+        try {
+            Integer.parseInt(str);
+            return true;
+        } catch (NumberFormatException e) {
+            return false;
         }
     }
 

@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.InetAddress;
+import java.net.InetSocketAddress;
 import java.net.MulticastSocket;
 import java.util.HashSet;
 import java.util.Set;
@@ -10,6 +11,7 @@ public class Server extends Thread {
     private final MulticastSocket socket;
     private final InetAddress group;
     private final int sendPort;
+     private InetSocketAddress sockets;
     private final int receivePort;
     private final AtomicInteger documentVersion = new AtomicInteger(0); // Versão do documento
     private int connectedClients = 0; // Contador de clientes conectados
@@ -22,7 +24,11 @@ public class Server extends Thread {
         this.sendPort = sendPort;
         this.receivePort = receivePort;
         this.socket = new MulticastSocket(receivePort);
-        socket.joinGroup(group);
+
+        sockets = new InetSocketAddress(group, receivePort);
+        socket.setTimeToLive(255);
+
+        socket.joinGroup(sockets, null);
 
         System.out.println("Servidor iniciado como líder.");
     }
@@ -33,12 +39,18 @@ public class Server extends Thread {
             String heartbeatMessage = Constants.HEARTBEAT_MESSAGE;
             byte[] buffer = heartbeatMessage.getBytes();
             DatagramPacket packet = new DatagramPacket(buffer, buffer.length, group, sendPort);
+    
+            // Envia o pacote
             socket.send(packet);
-            System.out.println("Heartbeat enviado: " + heartbeatMessage);
+    
+            // Imprime informações sobre o envio
+            System.out.println("Heartbeat enviado para o grupo: " + group.getHostAddress() + ":" + sendPort);
+            System.out.println("Conteúdo do Heartbeat: " + heartbeatMessage);
         } catch (IOException e) {
             System.err.println("Erro ao enviar heartbeat: " + e.getMessage());
         }
     }
+    
 
     // Envia o documento para todos os clientes
     private void sendDocumentUpdate() {
@@ -153,6 +165,7 @@ public class Server extends Thread {
 
         // Escuta mensagens de clientes
         while (true) {
+
             receiveClientMessages();
         }
     }
