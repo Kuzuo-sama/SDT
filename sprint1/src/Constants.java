@@ -10,10 +10,10 @@ public class Constants {
     public static final String JOIN_MESSAGE = "JOIN";
     public static final String REPLY_MESSAGE = "REPLY";
     public static final List<String> DOCUMENT_VERSIONS = Arrays.asList(
-    "Doc v1",
-    "Doc v2",
-    "Doc v3",
-    "Doc v4"
+    "Doc 1",
+    "Doc 2",
+    "Doc 3",
+    "Doc 4"
     );
     public static final String DOCUMENT_PREFIX = "DOCUMENT";
 

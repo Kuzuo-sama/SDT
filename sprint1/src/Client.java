@@ -16,7 +16,7 @@ public class Client extends Thread {
     private final InetAddress leaderAddress;
     private final int leaderPort;
     private boolean joined = false;
-    private int documentVersion = 1;
+    private String documentVersion;
 
     public Client(InetAddress group, int sendPort, int receivePort, InetAddress leaderAddress, int leaderPort) throws IOException {
     this.group = group;
@@ -67,7 +67,7 @@ public class Client extends Thread {
     
         try {
             multicastSocket.setSoTimeout(1);
-            System.out.println("Escutando no grupo multicast: " + group.getHostAddress() + ":" + receivePort);
+            
         } catch (IOException e) {
             System.err.println("Erro ao configurar tempo limite do socket: " + e.getMessage());
             return;
@@ -78,7 +78,7 @@ public class Client extends Thread {
             try {
                 multicastSocket.receive(packet);
                 String received = new String(packet.getData(), 0, packet.getLength()).trim();
-                System.out.println("Mensagem recebida via Multicast: " + received);
+                
                 processMessage(received);
             } catch (java.net.SocketTimeoutException e) {
                 // Timeout silencioso; nenhuma mensagem recebida
@@ -124,13 +124,9 @@ public class Client extends Thread {
             System.out.println("ACK_JOIN recebido do líder. Conexão com o grupo confirmada.");
         } else if (received.startsWith(Constants.DOCUMENT_PREFIX)) {
             System.out.println("Documento recebido: " + received);
-            String[] parts = received.split(" ");
-            if (parts.length > 1 && isNumeric(parts[1])) {
-                documentVersion = Integer.parseInt(parts[1]);
-                sendDocumentReceivedReply();
-            } else {
-                System.err.println("Erro: versão do documento inválida.");
-            }
+            documentVersion = received.split(",")[1];
+            System.out.println(documentVersion);
+            sendDocumentReceivedReply();
         } else if (received.equals(Constants.COMMIT_MESSAGE)) {
             System.out.println("Commit recebido. Nova versão do documento aplicada.");
         } else if (received.startsWith(Constants.VERSION_CHECK_MESSAGE)) {
@@ -138,29 +134,18 @@ public class Client extends Thread {
             sendVersionReply();
         } else if (received.startsWith("NEW_PORTS")) {
             String[] newPorts = received.split(",");
-            if (newPorts.length > 2 && isNumeric(newPorts[1]) && isNumeric(newPorts[2])) {
-                sendPort = Integer.parseInt(newPorts[1]);
-                receivePort = Integer.parseInt(newPorts[2]);
-                System.out.println("Novas portas recebidas do líder: " + sendPort + ", " + receivePort);
-                sendJoin();
-            } else {
-                System.err.println("Erro: portas inválidas recebidas.");
-            }
+            sendPort = Integer.parseInt(newPorts[1]);
+            receivePort = Integer.parseInt(newPorts[2]);
+            System.out.println("Novas portas recebidas do líder: " + sendPort + ", " + receivePort);
+            sendJoin();
         }
     }
     
-    private boolean isNumeric(String str) {
-        try {
-            Integer.parseInt(str);
-            return true;
-        } catch (NumberFormatException e) {
-            return false;
-        }
-    }
+    
 
     public synchronized void sendDocumentReceivedReply() {
         try {
-            String reply = "DOCUMENT_RECEIVED," + documentVersion;
+            String reply = "DOCUMENT_RECEIVED"+ "," + documentVersion;
             byte[] buffer = reply.getBytes();
             DatagramPacket packet = new DatagramPacket(buffer, buffer.length, leaderAddress, leaderPort);
             multicastSocket.send(packet);

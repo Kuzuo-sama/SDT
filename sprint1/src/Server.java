@@ -44,8 +44,7 @@ public class Server extends Thread {
             socket.send(packet);
     
             // Imprime informações sobre o envio
-            System.out.println("Heartbeat enviado para o grupo: " + group.getHostAddress() + ":" + sendPort);
-            System.out.println("Conteúdo do Heartbeat: " + heartbeatMessage);
+            
         } catch (IOException e) {
             System.err.println("Erro ao enviar heartbeat: " + e.getMessage());
         }
@@ -57,7 +56,7 @@ public class Server extends Thread {
         try {
             int newVersion = documentVersion.get();
             if (newVersion >= 0 && newVersion < Constants.DOCUMENT_VERSIONS.size()) {
-                String documentMessage = Constants.DOCUMENT_PREFIX + " " + Constants.DOCUMENT_VERSIONS.get(newVersion);
+                String documentMessage = Constants.DOCUMENT_PREFIX + "," + Constants.DOCUMENT_VERSIONS.get(newVersion);
                 byte[] buffer = documentMessage.getBytes();
     
                 // Envia a mensagem de documento via multicast
@@ -101,7 +100,8 @@ public class Server extends Thread {
             } else if (received.startsWith("DOCUMENT_RECEIVED")) {
                 // Processa a confirmação de recebimento do documento
                 String[] parts = received.split(",");
-                int version = Integer.parseInt(parts[1]);
+                String[] versionvalue = parts[1].split(" ");
+                int version = Integer.parseInt(versionvalue[1]);
 
                 if (version == documentVersion.get()) {
                     responsesReceived++;
