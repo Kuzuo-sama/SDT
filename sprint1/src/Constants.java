@@ -9,15 +9,14 @@ public class Constants {
     public static final String HEARTBEAT_MESSAGE = "HEARTBEAT";
     public static final String JOIN_MESSAGE = "JOIN";
     public static final String REPLY_MESSAGE = "REPLY";
+    public static final String LOG_REQUEST_MESSAGE = "LOG_REQUEST";
     public static final List<String> DOCUMENT_VERSIONS = Arrays.asList(
-    "Doc 1",
-    "Doc 2",
-    "Doc 3",
-    "Doc 4"
+        "Doc 1",
+        "Doc 2",
+        "Doc 3",
+        "Doc 4"
     );
     public static final String DOCUMENT_PREFIX = "DOCUMENT";
-
     public static final String COMMIT_MESSAGE = "COMMIT";
     public static final String VERSION_CHECK_MESSAGE = "VERSION_CHECK";
-    
 }
