@@ -39,7 +39,7 @@ public class HeartbeatSystem {
                 System.out.println("Porta de recebimento: " + clientReceivePort);
 
                 // Inicia o cliente
-                Client client = new Client(group, clientSendPort, clientReceivePort, leaderAddress, baseReceivePort);
+                Client client = new Client(group, clientReceivePort, leaderAddress, baseReceivePort);
                 client.start();
             }
 

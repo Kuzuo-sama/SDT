@@ -1,0 +1,4693 @@
+Server initialized as leader.
+Server running, waiting for clients...
+TCP server started on port 12345
+Heartbeat message sent.
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2Client connected.
+
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.Log file acknowledged by client: 172.17.0.2
+
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2Client connected.
+
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.Message received: ACK_LOG
+
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.Log file acknowledged by client: 172.17.0.2
+
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.Log file acknowledged by client: 172.17.0.2
+
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Heartbeat message sent.
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Log file acknowledged by client: 172.17.0.2
+Client connected.
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Message received: ACK_LOG
+Client connected.
+Log file acknowledged by client: 172.17.0.2
+Server initialized as leader.
+Server running, waiting for clients...
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+Heartbeat message sent.
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+START_TCP message sent to client: 172.17.0.2
+Message received: START_TCP
+Error sending log file to client: Connection refused
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+START_TCP message sent to client: 172.17.0.2
+Message received: START_TCP
+Error sending log file to client: Connection refused
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+TCP server started on port 12345
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+TCP server started on port 12345
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+TCP server started on port 12345
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+TCP server started on port 12345
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+TCP server started on port 12345
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+Heartbeat message sent.
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+Heartbeat message sent.
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Server initialized as leader.
+Server running, waiting for clients...
+Heartbeat message sent.
+Heartbeat message sent.
+Message received: JOIN
+ACK_JOIN sent to client.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
+Heartbeat message sent.
