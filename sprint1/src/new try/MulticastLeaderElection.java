@@ -14,7 +14,7 @@ public class MulticastLeaderElection {
     private static final int PORT = 5000;
     private static final int HEARTBEAT_INTERVAL = 3000;
     private static final int TIMEOUT = 5000;
-    private static final int LEADER_UNICAST_PORT = 5001;
+    private static int LEADER_UNICAST_PORT = 5001;
     private static DatagramSocket leaderSocket;
     private static InetAddress currentleaderAddresses;
 
@@ -270,6 +270,7 @@ public class MulticastLeaderElection {
         String leaderId = parts[1];
 
         if (!leaderId.equals(id)) {
+            
             currentLeader = leaderId;
             hasLeader = true;
             isLeader = false; // This node is not the leader
@@ -351,7 +352,9 @@ public class MulticastLeaderElection {
         if (leaderSocket != null && !leaderSocket.isClosed()) {
             leaderSocket.close();
         }
-    
+
+        
+        
         isLeader = true;
         hasLeader = true;
         currentLeader = id;
