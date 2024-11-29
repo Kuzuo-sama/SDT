@@ -113,7 +113,7 @@ public class MulticastLeaderElection {
     private static void syncDocuments(InetAddress group, int x) {
         if (isLeader) {
             // Lista fixa com os nomes dos documentos
-            List<String> docList = Arrays.asList("doc1", "doc2", "doc3", "doc4", "doc5");
+            List<String> docList = Arrays.asList("doc1", "doc2", "doc3", "doc4", "doc5", "doc6", "doc7", "doc8", "doc9", "doc10");
     
             if (x >= 0 && x < docList.size()) {
                 String document = docList.get(x);
@@ -334,6 +334,7 @@ public class MulticastLeaderElection {
                 .orElse(id);
 
         if (currentLeader.equals(id)) {
+            
             becomeLeader(group);
         } else {
             hasLeader = true;
@@ -346,6 +347,9 @@ public class MulticastLeaderElection {
         if (hasLeader) {
             System.out.println(id + " cannot become leader because there is already a leader.");
             return;
+        }
+        if (leaderSocket != null && !leaderSocket.isClosed()) {
+            leaderSocket.close();
         }
     
         isLeader = true;
