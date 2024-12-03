@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
+import java.net.InetSocketAddress;
 import java.net.MulticastSocket;
 import java.time.Instant;
 import java.util.*;
@@ -17,7 +18,6 @@ public class MulticastLeaderElection {
     private static int LEADER_UNICAST_PORT = 5001;
     private static DatagramSocket leaderSocket;
     private static InetAddress currentleaderAddresses;
-
 
     
     private static final AtomicInteger yesCount = new AtomicInteger(0);
@@ -362,6 +362,8 @@ public class MulticastLeaderElection {
     
         try {
             leaderSocket = new DatagramSocket(LEADER_UNICAST_PORT);
+
+            System.out.println("Leader unicast socket initialized on port " + LEADER_UNICAST_PORT);
             
             new Thread(() -> listenForUnicastMessages()).start();
 
