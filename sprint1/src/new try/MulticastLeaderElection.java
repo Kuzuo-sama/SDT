@@ -31,7 +31,7 @@ public class MulticastLeaderElection {
     private static String currentLeader = null;
 
     private static final Map<String, Instant> members = new ConcurrentHashMap<>();
-    private static List<Item> itens = new ArrayList<>();
+    
     private static List<Item> localItems = Collections.synchronizedList(new ArrayList<>());
     private static final List<String> operationLog = Collections.synchronizedList(new ArrayList<>());
 
@@ -117,13 +117,15 @@ public class MulticastLeaderElection {
             // Lista fixa com os nomes dos documentos
             
     
-            if (x >= 0 && x < itens.size()) {
-                Item document = itens.get(x);
+            if (x >= 0 && x < localItems.size()) {
+                Item document = localItems.get(x);
                 StringBuilder messageBuilder = new StringBuilder();
                 
                     messageBuilder.append("SYNC")
                                 .append("|")
                                 .append(id)
+                                .append("|")
+                                .append(docnum)
                                 .append("|")
                                 .append(document.getNome())
                                 .append(";")
@@ -142,7 +144,7 @@ public class MulticastLeaderElection {
                     System.err.println("Error sending SYNC message: " + e.getMessage());
                 }
             } else {
-                System.err.println("Invalid index: " + x + ". Please provide a value between 0 and " + (itens.size() - 1) + ".");
+                System.err.println("Invalid index: " + x + ". Please provide a value between 0 and " + (localItems.size() - 1) + ".");
             }
         }
     }
@@ -166,13 +168,13 @@ public class MulticastLeaderElection {
 
                 // Criar e adicionar o item à lista
                 Item item = new Item(nome, conteudo);
-                for (Item i : itens) {
+                for (Item i : localItems) {
                     if (i.getNome().equals(item.getNome())) {
-                        System.out.println("Documento já existe");
+                        //System.out.println("Documento já existe");
                         return;
                     }
                 }
-                itens.add(item);
+                localItems.add(item);
             }
         }
     }
@@ -202,9 +204,7 @@ public class MulticastLeaderElection {
                     processSyncMessage(message);
                 } else if (message.startsWith("YES")) {
                     processYesMessage(message);
-                }/*else if (message.startsWith("STATE")) {
-                    processStateMessage(message);
-                }*/
+                }
 
                 if (System.currentTimeMillis() - discoveryStart > TIMEOUT || !members.isEmpty() || hasLeader) {
                     discoveryComplete.set(true);
@@ -221,36 +221,38 @@ public class MulticastLeaderElection {
     private static void processSyncMessage(String message) {
         String[] partes = message.split("\\|");
 
-        if (partes.length == 3) {
+        if (partes.length == 4) {
             String id = partes[1]; // Extrai o ID
+            int docnum = Integer.parseInt(partes[2]); // Extrai o docnum
 
             // Quebrar a última parte no delimitador ";" para obter nome e conteúdo
-            String[] documentParts = partes[2].split(";");
+            String[] documentParts = partes[3].split(";");
             if (documentParts.length == 2) {
-                String nome = documentParts[0].trim();
-                String conteudo = documentParts[1].trim();
+            String nome = documentParts[0].trim();
+            String conteudo = documentParts[1].trim();
 
-                // Criar um objeto Document ou qualquer estrutura necessária
-                Item documento = new Item(nome, conteudo);
+            // Criar um objeto Document ou qualquer estrutura necessária
+            Item documento = new Item(nome, conteudo);
 
-                // Adicionar o documento à lista local
-                if(localItems.size() == 0){
-                    localItems.add(documento);
-                }else if(localItems.size() > 0){
-                    for (Item i : localItems) {
-                        if (i.getNome().equals(documento.getNome())) {
-                            System.out.println("Documento já existe");
-                            sendYesToLeader();
-                            return;
-                        }
-                    }
-                    localItems.add(documento);
+            // Adicionar o documento à lista local
+            if (localItems.size() == 0) {
+                localItems.add(documento);
+            } else if (localItems.size() > 0) {
+                for (Item i : localItems) {
+                if (i.getNome().equals(documento.getNome())) {
+                    System.out.println("Documento já existe");
+                    sendYesToLeader();
+                    return;
                 }
+                }
+                localItems.add(documento);
+            }
 
-                // Exemplo de saída ou processamento
-                System.out.println("ID: " + id);
-                System.out.println("Nome: " + documento.getNome());
-                System.out.println("Conteúdo: " + documento.getConteudo());
+            // Exemplo de saída ou processamento
+            System.out.println("ID: " + id);
+            System.out.println("Docnum: " + docnum);
+            System.out.println("Nome: " + documento.getNome());
+            System.out.println("Conteúdo: " + documento.getConteudo());
             }
         }
 
@@ -423,7 +425,7 @@ public class MulticastLeaderElection {
                     System.out.println("Received: " + message);
                     processYesMessage(message); // Processar mensagens YES recebidas
                 }else if(message.startsWith("MENSAGEM")){
-                    System.out.println("Received: " + message);
+                    //System.out.println("Received: " + message);
                     processmensagemcliente(message);
                     
                 }
