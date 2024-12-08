@@ -10,8 +10,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import newtry.Item;
-
 public class MulticastLeaderElection {
     private static final String MULTICAST_GROUP = "224.0.0.1";
     private static final int PORT = 5000;
@@ -31,8 +29,8 @@ public class MulticastLeaderElection {
     private static String currentLeader = null;
 
     private static final Map<String, Instant> members = new ConcurrentHashMap<>();
-    private static List<Item> itens = new ArrayList<>();
-    private static List<Item> localItems = Collections.synchronizedList(new ArrayList<>());
+    private static final Map<String, String> documents = new ConcurrentHashMap<>();
+    private static final List<String> localDocumentList = Collections.synchronizedList(new ArrayList<>());
     private static final List<String> operationLog = Collections.synchronizedList(new ArrayList<>());
 
     private static MulticastSocket socket;
@@ -115,23 +113,11 @@ public class MulticastLeaderElection {
     private static void syncDocuments(InetAddress group, int x) {
         if (isLeader) {
             // Lista fixa com os nomes dos documentos
-            
+            List<String> docList = Arrays.asList("doc1", "doc2", "doc3", "doc4", "doc5", "doc6", "doc7", "doc8", "doc9", "doc10");
     
-            if (x >= 0 && x < itens.size()) {
-                Item document = itens.get(x);
-                StringBuilder messageBuilder = new StringBuilder();
-                
-                    messageBuilder.append("SYNC")
-                                .append("|")
-                                .append(id)
-                                .append("|")
-                                .append(document.getNome())
-                                .append(";")
-                                .append(document.getConteudo())
-                                .append("\n");
-                
-                String message = messageBuilder.toString();
-                
+            if (x >= 0 && x < docList.size()) {
+                String document = docList.get(x);
+                String message = "SYNC|" + id + "|" + document;
     
                 try {
                     sendMessage(group, message);
@@ -142,40 +128,11 @@ public class MulticastLeaderElection {
                     System.err.println("Error sending SYNC message: " + e.getMessage());
                 }
             } else {
-                System.err.println("Invalid index: " + x + ". Please provide a value between 0 and " + (itens.size() - 1) + ".");
+                System.err.println("Invalid index: " + x + ". Please provide a value between 0 and " + (docList.size() - 1) + ".");
             }
         }
     }
     
-
-    private static void processmensagemcliente(String mensagem){
-
-        String semPrefixo = mensagem.replace("MENSAGEM: ", "").trim();
-
-        // Quebrar em linhas (se houver várias mensagens)
-        String[] linhas = semPrefixo.split("\n");
-
-        
-
-        for (String linha : linhas) {
-            // Quebrar no delimitador ";"
-            String[] partes = linha.split(";");
-            if (partes.length == 2) {
-                String nome = partes[0].trim();
-                String conteudo = partes[1].trim();
-
-                // Criar e adicionar o item à lista
-                Item item = new Item(nome, conteudo);
-                for (Item i : itens) {
-                    if (i.getNome().equals(item.getNome())) {
-                        System.out.println("Documento já existe");
-                        return;
-                    }
-                }
-                itens.add(item);
-            }
-        }
-    }
     
     
 
@@ -219,42 +176,33 @@ public class MulticastLeaderElection {
     }
 
     private static void processSyncMessage(String message) {
-        String[] partes = message.split("\\|");
+        String[] parts = message.split("\\|", 3);
+        if (parts.length < 3) {
+            System.out.println("Malformed SYNC message: " + message);
+            return;
+        }
+    
+        String senderId = parts[1];
+        String document = parts[2];
+    
+        if (!senderId.equals(id)) {
+            
 
-        if (partes.length == 3) {
-            String id = partes[1]; // Extrai o ID
-
-            // Quebrar a última parte no delimitador ";" para obter nome e conteúdo
-            String[] documentParts = partes[2].split(";");
-            if (documentParts.length == 2) {
-                String nome = documentParts[0].trim();
-                String conteudo = documentParts[1].trim();
-
-                // Criar um objeto Document ou qualquer estrutura necessária
-                Item documento = new Item(nome, conteudo);
-
-                // Adicionar o documento à lista local
-                if(localItems.size() == 0){
-                    localItems.add(documento);
-                }else if(localItems.size() > 0){
-                    for (Item i : localItems) {
-                        if (i.getNome().equals(documento.getNome())) {
-                            System.out.println("Documento já existe");
-                            sendYesToLeader();
-                            return;
-                        }
-                    }
-                    localItems.add(documento);
+            synchronized (localDocumentList) {
+                System.out.println(localDocumentList);
+                if (!localDocumentList.contains(document)) {
+                    localDocumentList.add(document);
+                    System.out.println(id + " added document: " + document + " from " + senderId);
+    
+                    // Check if document matches the last member added
+                    
+                }else{
+                    sendYesToLeader(); 
                 }
-
-                // Exemplo de saída ou processamento
-                System.out.println("ID: " + id);
-                System.out.println("Nome: " + documento.getNome());
-                System.out.println("Conteúdo: " + documento.getConteudo());
+                    
+                
             }
         }
-
-        
     }
     
     private static void sendYesToLeader() {
@@ -424,7 +372,6 @@ public class MulticastLeaderElection {
                     processYesMessage(message); // Processar mensagens YES recebidas
                 }else if(message.startsWith("MENSAGEM")){
                     System.out.println("Received: " + message);
-                    processmensagemcliente(message);
                     
                 }
             } catch (IOException e) {
