@@ -1,0 +1,813 @@
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multicast group, starting discovery...
+Member-1733761590384 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761590384
+Sent YES to leader at 192.168.65.3
+mandei heartbeat
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761590384
+Sent YES to leader at 192.168.65.3
+mandei heartbeat
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761590384
+Sent YES to leader at 192.168.65.3
+mandei heartbeat
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733761590384
+mandei heartbeat
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761590384
+Sent YES to leader at 192.168.65.3
+mandei heartbeat
+Member-1733761611482 joined multicast group, starting discovery...
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761590384
+Sent YES to leader at 192.168.65.3
+ID: Member-1733761590384
+Docnum: 0
+Nome: Doc1
+Conteúdo: Conteudo1
+mandei heartbeat
+Discovered leader: Member-1733761590384
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761590384|0|Doc1;Conteudo1
+
+Documento já existe
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733761590384
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733761611482
+Received YES from Member-1733761611482
+Majority of members agreed. Incremented docnum to 1
+mandei heartbeat
+Received: SYNC|Member-1733761590384|1|Doc2;Conteudo2
+
+Received: SYNC|Member-1733761590384|1|Doc2;Conteudo2
+
+Sent: SYNC|Member-1733761590384|1|Doc2;Conteudo2
+
+Documento já existe
+ID: Member-1733761590384
+Received: YES|Member-1733761590384
+Docnum: 1
+Sent YES to leader at 192.168.65.3
+Nome: Doc2
+Conteúdo: Conteudo2
+mandei heartbeat
+Member-1733761655761 joined multicast group, starting discovery...
+Member-1733761655761 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Received: SYNC|Member-1733761655761|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761655761|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761655761
+Sent YES to leader at 192.168.65.3
+mandei heartbeat
+Received: SYNC|Member-1733761655761|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761655761|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733761655761
+Sent YES to leader at 192.168.65.3
+mandei heartbeat
+Member-1733761775158 joined multicast group, starting discovery...
+Member-1733761775158 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Received: SYNC|Member-1733761775158|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761775158|0|Doc1;Conteudo1
+
+Documento já existe
+mandei heartbeat
+Received: SYNC|Member-1733761775158|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733761775158|0|Doc1;Conteudo1
+
+Documento já existe
+mandei heartbeat
+Member-1733761929078 joined multicast group, starting discovery...
+Member-1733761929078 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Sent: SYNC|Member-1733761929078|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761929078|0|Doc1;Conteudo1
+
+Documento já existe
+mandei heartbeat
+Sent: SYNC|Member-1733761929078|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733761929078|0|Doc1;Conteudo1
+
+Documento já existe
+mandei heartbeat
+Member-1733762064488 joined multicast group, starting discovery...
+Member-1733762066416 joined multicast group, starting discovery...
+Member-1733762064488 is the new leader.
+Leader unicast socket initialized on port 5001
+Leader is Member-1733762064488
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733762075570 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733762064488
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Leader Member-1733762064488 is no longer active.
+Member-1733762075570 is the new leader.
+Leader unicast socket initialized on port 5001
+Leader Member-1733762064488 is no longer active.
+Leader is Member-1733762075570
+Member-1733762066416 cannot become leader because there is already a leader.
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733762340164 joined multicast group, starting discovery...
+Member-1733762340164 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Sent: SYNC|Member-1733762340164|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733762340164|0|Doc1;Conteudo1
+
+Documento já existe
+mandei heartbeat
+Sent: SYNC|Member-1733762340164|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733762340164|0|Doc1;Conteudo1
+
+Documento já existe
+mandei heartbeat
+Member-1733762387826 joined multicast group, starting discovery...
+Member-1733762387826 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Sent: SYNC|Member-1733762387826|0|Doc1;Conteudo1
+
+mandei heartbeat
+Sent: SYNC|Member-1733762387826|0|Doc1;Conteudo1
+
+mandei heartbeat
+Member-1733762399334 joined multicast group, starting discovery...
+Sent: SYNC|Member-1733762387826|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733762387826|0|Doc1;Conteudo1
+
+ID: Member-1733762387826
+Docnum: 0
+Nome: Doc1
+Conteúdo: Conteudo1
+mandei heartbeat
+Discovered leader: Member-1733762387826
+Leader Member-1733762387826 is no longer active.
+Member-1733762399334 is the new leader.
+Leader unicast socket initialized on port 5001
+Member-1733762532106 joined multicast group, starting discovery...
+Member-1733762532106 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Sent: SYNC|Member-1733762532106|0|Doc1;Conteudo1
+
+mandei heartbeat
+Member-1733762542231 joined multicast group, starting discovery...
+Sent: SYNC|Member-1733762532106|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733762532106|0|Doc1;Conteudo1
+
+ID: Member-1733762532106
+Docnum: 0
+mandei heartbeat
+Nome: Doc1
+Conteúdo: Conteudo1
+Discovered leader: Member-1733762532106
+Sent: SYNC|Member-1733762532106|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733762532106|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733762542231
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733762542231
+Majority of members agreed. Incremented docnum to 1
+mandei heartbeat
+Sent: SYNC|Member-1733762532106|1|Doc2;Conteudo2
+
+Received: SYNC|Member-1733762532106|1|Doc2;Conteudo2
+
+ID: Member-1733762532106
+Docnum: 1
+Nome: Doc2
+Conteúdo: Conteudo2
+mandei heartbeat
+Sent: SYNC|Member-1733762532106|1|Doc2;Conteudo2
+
+Received: SYNC|Member-1733762532106|1|Doc2;Conteudo2
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733762542231
+Received YES from Member-1733762542231
+Majority of members agreed. Incremented docnum to 2
+mandei heartbeat
+Received: SYNC|Member-1733762532106|2|Doc3;Conteudo3
+
+Sent: SYNC|Member-1733762532106|2|Doc3;Conteudo3
+
+ID: Member-1733762532106
+Docnum: 2
+Nome: Doc3
+Conteúdo: Conteudo3
+mandei heartbeat
+Member-1733762556432 joined multicast group, starting discovery...
+Received: SYNC|Member-1733762532106|2|Doc3;Conteudo3
+
+Sent: SYNC|Member-1733762532106|2|Doc3;Conteudo3
+
+Received: SYNC|Member-1733762532106|2|Doc3;Conteudo3
+
+Documento já existe
+Received: YES|Member-1733762542231
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733762542231
+Majority of members agreed. Incremented docnum to 3
+ID: Member-1733762532106
+Docnum: 2
+Nome: Doc3
+Conteúdo: Conteudo3
+mandei heartbeat
+Discovered leader: Member-1733762532106
+Member-1733773169583 joined multicast group, starting discovery...
+Member-1733773172672 joined multicast group, starting discovery...
+Member-1733773169583 is the new leader.
+Leader unicast socket initialized on port 5001
+Leader is Member-1733773169583
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Leader Member-1733773169583 is no longer active.
+Member-1733773172672 recognizes new leader as Member-1733773169583
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Leader Member-1733773169583 is no longer active.
+Member-1733773172672 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733773191076 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733773172672
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Sent: SYNC|Member-1733773172672|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733773172672|0|Doc1;Conteudo1
+
+ID: Member-1733773172672
+Docnum: 0
+Nome: Doc1
+Conteúdo: Conteudo1
+mandei heartbeat
+Sent: SYNC|Member-1733773172672|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733773172672|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733773191076
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773191076
+Majority of members agreed. Incremented docnum to 1
+mandei heartbeat
+Received: SYNC|Member-1733773172672|1|Doc2;Conteudo2
+
+Sent: SYNC|Member-1733773172672|1|Doc2;Conteudo2
+
+ID: Member-1733773172672
+Docnum: 1
+Nome: Doc2
+Conteúdo: Conteudo2
+mandei heartbeat
+Sent: SYNC|Member-1733773172672|1|Doc2;Conteudo2
+
+Received: SYNC|Member-1733773172672|1|Doc2;Conteudo2
+
+Documento já existe
+Received: YES|Member-1733773191076
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773191076
+Majority of members agreed. Incremented docnum to 2
+mandei heartbeat
+Sent: SYNC|Member-1733773172672|2|Doc3;Conteudo3
+
+Received: SYNC|Member-1733773172672|2|Doc3;Conteudo3
+
+ID: Member-1733773172672
+Docnum: 2
+Nome: Doc3
+Conteúdo: Conteudo3
+mandei heartbeat
+Sent: SYNC|Member-1733773172672|2|Doc3;Conteudo3
+
+Received: SYNC|Member-1733773172672|2|Doc3;Conteudo3
+
+Documento já existe
+Received: YES|Member-1733773191076
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773191076
+Majority of members agreed. Incremented docnum to 3
+mandei heartbeat
+Sent: SYNC|Member-1733773172672|3|Doc4;Conteudo4
+
+Received: SYNC|Member-1733773172672|3|Doc4;Conteudo4
+
+ID: Member-1733773172672
+Docnum: 3
+Nome: Doc4
+Conteúdo: Conteudo4
+mandei heartbeat
+Member-1733773218667 joined multicast group, starting discovery...
+Received: SYNC|Member-1733773172672|3|Doc4;Conteudo4
+
+Sent: SYNC|Member-1733773172672|3|Doc4;Conteudo4
+
+Received: SYNC|Member-1733773172672|3|Doc4;Conteudo4
+
+Documento já existe
+Received: YES|Member-1733773191076
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773191076
+Majority of members agreed. Incremented docnum to 4
+ID: Member-1733773172672
+Docnum: 3
+Nome: Doc4
+Conteúdo: Conteudo4
+mandei heartbeat
+Discovered leader: Member-1733773172672
+Sent: SYNC|Member-1733773172672|4|Doc5;Conteudo5
+
+Received: SYNC|Member-1733773172672|4|Doc5;Conteudo5
+
+Received: SYNC|Member-1733773172672|4|Doc5;Conteudo5
+
+ID: Member-1733773172672
+ID: Member-1733773172672
+Docnum: 4
+Docnum: 4
+Nome: Doc5
+Nome: Doc5
+Conteúdo: Conteudo5
+Conteúdo: Conteudo5
+mandei heartbeat
+Received: SYNC|Member-1733773172672|4|Doc5;Conteudo5
+
+Sent: SYNC|Member-1733773172672|4|Doc5;Conteudo5
+
+Received: SYNC|Member-1733773172672|4|Doc5;Conteudo5
+
+Documento já existe
+Documento já existe
+Received: YES|Member-1733773218667
+Sent YES to leader at 192.168.65.3
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773218667
+Majority of members agreed. Incremented docnum to 5
+Received: YES|Member-1733773191076
+Received YES from Member-1733773191076
+Majority of members agreed. Incremented docnum to 6
+mandei heartbeat
+Member-1733773540979 joined multicast group, starting discovery...
+Member-1733773543888 joined multicast group, starting discovery...
+Member-1733773540979 is the new leader.
+Leader unicast socket initialized on port 5001
+Leader is Member-1733773540979
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Sent: SYNC|Member-1733773540979|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733773540979|0|Doc1;Conteudo1
+
+ID: Member-1733773540979
+Docnum: 0
+mandei heartbeat
+Nome: Doc1
+Conteúdo: Conteudo1
+Sent: SYNC|Member-1733773540979|0|Doc1;Conteudo1
+
+Received: SYNC|Member-1733773540979|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733773543888
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773543888
+Majority of members agreed. Incremented docnum to 1
+mandei heartbeat
+Received: SYNC|Member-1733773540979|1|Doc2;Conteudo2
+
+Sent: SYNC|Member-1733773540979|1|Doc2;Conteudo2
+
+ID: Member-1733773540979
+Docnum: 1
+Nome: Doc2
+Conteúdo: Conteudo2
+mandei heartbeat
+Received: SYNC|Member-1733773540979|1|Doc2;Conteudo2
+
+Sent: SYNC|Member-1733773540979|1|Doc2;Conteudo2
+
+Documento já existe
+Received: YES|Member-1733773543888
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773543888
+Majority of members agreed. Incremented docnum to 2
+mandei heartbeat
+Sent: SYNC|Member-1733773540979|2|Doc3;Conteudo3
+
+Received: SYNC|Member-1733773540979|2|Doc3;Conteudo3
+
+ID: Member-1733773540979
+Docnum: 2
+Nome: Doc3
+Conteúdo: Conteudo3
+mandei heartbeat
+Received: SYNC|Member-1733773540979|2|Doc3;Conteudo3
+
+Sent: SYNC|Member-1733773540979|2|Doc3;Conteudo3
+
+Documento já existe
+Received: YES|Member-1733773543888
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773543888
+Majority of members agreed. Incremented docnum to 3
+mandei heartbeat
+Member-1733773569224 joined multicast group, starting discovery...
+Sent: SYNC|Member-1733773540979|3|Doc4;Conteudo4
+
+Received: SYNC|Member-1733773540979|3|Doc4;Conteudo4
+
+Received: SYNC|Member-1733773540979|3|Doc4;Conteudo4
+
+ID: Member-1733773540979
+Docnum: 3
+Nome: Doc4
+ID: Member-1733773540979
+Conteúdo: Conteudo4
+Docnum: 3
+Nome: Doc4
+Conteúdo: Conteudo4
+mandei heartbeat
+Discovered leader: Member-1733773540979
+Received: SYNC|Member-1733773540979|3|Doc4;Conteudo4
+
+Sent: SYNC|Member-1733773540979|3|Doc4;Conteudo4
+
+Received: SYNC|Member-1733773540979|3|Doc4;Conteudo4
+
+Documento já existe
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773543888
+Received YES from Member-1733773543888
+Majority of members agreed. Incremented docnum to 4
+Received: YES|Member-1733773569224
+Received YES from Member-1733773569224
+Majority of members agreed. Incremented docnum to 5
+mandei heartbeat
+Sent: SYNC|Member-1733773540979|5|Doc6;Conteudo6
+
+Received: SYNC|Member-1733773540979|5|Doc6;Conteudo6
+
+Received: SYNC|Member-1733773540979|5|Doc6;Conteudo6
+
+ID: Member-1733773540979
+ID: Member-1733773540979
+Docnum: 5
+Docnum: 5
+Nome: Doc6
+Nome: Doc6
+Conteúdo: Conteudo6
+Conteúdo: Conteudo6
+mandei heartbeat
+Received: SYNC|Member-1733773540979|5|Doc6;Conteudo6
+
+Received: SYNC|Member-1733773540979|5|Doc6;Conteudo6
+
+Sent: SYNC|Member-1733773540979|5|Doc6;Conteudo6
+
+Documento já existe
+Received: YES|Member-1733773569224
+Sent YES to leader at 192.168.65.3
+Documento já existe
+Received YES from Member-1733773569224
+Sent YES to leader at 192.168.65.3
+Majority of members agreed. Incremented docnum to 6
+Received: YES|Member-1733773543888
+Received YES from Member-1733773543888
+Majority of members agreed. Incremented docnum to 7
+mandei heartbeat
+Leader Member-1733773540979 is no longer active.
+Member-1733773569224 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Sent: SYNC|Member-1733773569224|0|Doc4;Conteudo4
+
+Sent: SYNC|Member-1733773569224|0|Doc4;Conteudo4
+
+mandei heartbeat
+Member-1733773652542 joined multicast group, starting discovery...
+Member-1733773655059 joined multicast group, starting discovery...
+Member-1733773652542 is the new leader.
+Leader unicast socket initialized on port 5001
+Leader is Member-1733773652542
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Received: SYNC|Member-1733773652542|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733773652542|0|Doc1;Conteudo1
+
+ID: Member-1733773652542
+Docnum: 0
+Nome: Doc1
+Conteúdo: Conteudo1
+mandei heartbeat
+Received: SYNC|Member-1733773652542|0|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733773652542|0|Doc1;Conteudo1
+
+Documento já existe
+Received: YES|Member-1733773655059
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 1
+mandei heartbeat
+Received: SYNC|Member-1733773652542|1|Doc2;Conteudo2
+
+Sent: SYNC|Member-1733773652542|1|Doc2;Conteudo2
+
+ID: Member-1733773652542
+Docnum: 1
+Nome: Doc2
+Conteúdo: Conteudo2
+mandei heartbeat
+Sent: SYNC|Member-1733773652542|1|Doc2;Conteudo2
+
+Received: SYNC|Member-1733773652542|1|Doc2;Conteudo2
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773655059
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 2
+mandei heartbeat
+Received: SYNC|Member-1733773652542|2|Doc3;Conteudo3
+
+Sent: SYNC|Member-1733773652542|2|Doc3;Conteudo3
+
+ID: Member-1733773652542
+Docnum: 2
+Nome: Doc3
+Conteúdo: Conteudo3
+mandei heartbeat
+Sent: SYNC|Member-1733773652542|2|Doc3;Conteudo3
+
+Received: SYNC|Member-1733773652542|2|Doc3;Conteudo3
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773655059
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 3
+mandei heartbeat
+Sent: SYNC|Member-1733773652542|3|Doc4;Conteudo4
+
+Received: SYNC|Member-1733773652542|3|Doc4;Conteudo4
+
+ID: Member-1733773652542
+Docnum: 3
+Nome: Doc4
+Conteúdo: Conteudo4
+mandei heartbeat
+Received: SYNC|Member-1733773652542|3|Doc4;Conteudo4
+
+Sent: SYNC|Member-1733773652542|3|Doc4;Conteudo4
+
+Documento já existe
+Received: YES|Member-1733773655059
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 4
+mandei heartbeat
+Sent: SYNC|Member-1733773652542|4|Doc5;Conteudo5
+
+Received: SYNC|Member-1733773652542|4|Doc5;Conteudo5
+
+ID: Member-1733773652542
+Docnum: 4
+Nome: Doc5
+Conteúdo: Conteudo5
+mandei heartbeat
+Received: SYNC|Member-1733773652542|4|Doc5;Conteudo5
+
+Sent: SYNC|Member-1733773652542|4|Doc5;Conteudo5
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773655059
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 5
+mandei heartbeat
+Member-1733773705743 joined multicast group, starting discovery...
+Received: SYNC|Member-1733773652542|5|Doc6;Conteudo6
+
+Sent: SYNC|Member-1733773652542|5|Doc6;Conteudo6
+
+Received: SYNC|Member-1733773652542|5|Doc6;Conteudo6
+
+ID: Member-1733773652542
+Docnum: 5
+Nome: Doc6
+Conteúdo: Conteudo6
+ID: Member-1733773652542
+Docnum: 5
+Nome: Doc6
+Conteúdo: Conteudo6
+mandei heartbeat
+Discovered leader: Member-1733773652542
+Received: SYNC|Member-1733773652542|5|Doc6;Conteudo6
+
+Received: SYNC|Member-1733773652542|5|Doc6;Conteudo6
+
+Sent: SYNC|Member-1733773652542|5|Doc6;Conteudo6
+
+Documento já existe
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773655059
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 6
+Received: YES|Member-1733773705743
+Received YES from Member-1733773705743
+Majority of members agreed. Incremented docnum to 7
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Invalid index: 7. Please provide a value between 0 and 6.
+mandei heartbeat
+Leader Member-1733773652542 is no longer active.
+Member-1733773705743 is the new leader.
+Leader Member-1733773652542 is no longer active.
+Leader unicast socket initialized on port 5001
+Leader is Member-1733773705743
+Member-1733773655059 cannot become leader because there is already a leader.
+Sent: SYNC|Member-1733773705743|0|Doc6;Conteudo6
+
+Received: SYNC|Member-1733773705743|0|Doc6;Conteudo6
+
+Documento já existe
+Received: YES|Member-1733773655059
+mandei heartbeat
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 1
+Received: SYNC|Member-1733773705743|1|Doc1;Conteudo1
+
+Sent: SYNC|Member-1733773705743|1|Doc1;Conteudo1
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773655059
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 2
+mandei heartbeat
+Received: SYNC|Member-1733773705743|2|Doc2;Conteudo2
+
+Sent: SYNC|Member-1733773705743|2|Doc2;Conteudo2
+
+Documento já existe
+Sent YES to leader at 192.168.65.3
+Received: YES|Member-1733773655059
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 3
+mandei heartbeat
+Received: SYNC|Member-1733773705743|3|Doc3;Conteudo3
+
+Sent: SYNC|Member-1733773705743|3|Doc3;Conteudo3
+
+Documento já existe
+Received: YES|Member-1733773655059
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 4
+mandei heartbeat
+Received: SYNC|Member-1733773705743|4|Doc4;Conteudo4
+
+Sent: SYNC|Member-1733773705743|4|Doc4;Conteudo4
+
+Documento já existe
+Received: YES|Member-1733773655059
+Sent YES to leader at 192.168.65.3
+Received YES from Member-1733773655059
+Majority of members agreed. Incremented docnum to 5
+mandei heartbeat

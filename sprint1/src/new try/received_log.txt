@@ -1,0 +1,2133 @@
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic
+Member-1733761235137 joined multicast group, starting discovery...
+Member-1733761235137 is the new leader.
+Leader unicast socket initialized on port 5001
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761241720 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761235137
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Member-1733761294866 joined multicast group, starting discovery...
+Member-1733761294866 is the new leader.
+Leader unicast socket initialized on port 5001
+mandei heartbeat
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761301482 joined multicast group, starting discovery...
+Invalid index: 0. Please provide a value between 0 and -1.
+mandei heartbeat
+Discovered leader: Member-1733761294866
+Invalid index: 0. Please provide a value between 0 and -1.
+Member-1733761590384 joined multic

@@ -1,5 +1,6 @@
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -8,6 +9,8 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.net.MulticastSocket;
+import java.net.Socket;
+import java.net.SocketTimeoutException;
 import java.time.Instant;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -174,8 +177,11 @@ public class MulticastLeaderElection {
     private static void listenForMessages(InetAddress group, AtomicBoolean discoveryComplete) {
         byte[] buffer = new byte[1024];
         long discoveryStart = System.currentTimeMillis();
-
+        
         while (true) {
+            if(isLeader) {
+                return;
+            }
             try {
                 DatagramPacket packet = new DatagramPacket(buffer, buffer.length);
                 socket.setSoTimeout(100);
@@ -210,6 +216,28 @@ public class MulticastLeaderElection {
         }
     }
 
+
+    static private void printList(){
+        StringBuilder resultado = new StringBuilder();
+        resultado.append("[");
+
+        for (int i = 0; i < localItems.size(); i++) {
+            Item item = localItems.get(i);
+            resultado.append(item.getNome()).append(":").append(item.getConteudo());
+
+            // Adicionar o separador ';' entre os elementos, exceto no último
+            if (i < localItems.size() - 1) {
+                resultado.append("; ");
+            }
+        }
+
+        resultado.append("]");
+
+        // Exibir o resultado final
+        System.out.println(resultado.toString());
+
+    }
+
     private static void processSyncMessage(String message) {
         String[] partes = message.split("\\|");
 
@@ -234,6 +262,8 @@ public class MulticastLeaderElection {
                         }
                     }
                     localItems.add(documento);
+                    printList();
+                    
                 }
 
                 logMessage("ID: " + id);
@@ -246,6 +276,9 @@ public class MulticastLeaderElection {
 
     private static void sendYesToLeader() {
         try {
+            if(isLeader) {
+                return;
+            }
             String message = "YES|" + id;
 
             if (currentLeader == null || currentleaderAddresses == null) {
@@ -278,6 +311,7 @@ public class MulticastLeaderElection {
                 hasLeader = true;
                 isLeader = false;
                 logMessage("Discovered leader: " + senderId);
+                sendUnicastSyncroRequest();
             }
         }
     }
@@ -306,10 +340,11 @@ public class MulticastLeaderElection {
             yesResponses.add(senderId);
             logMessage("Received YES from " + senderId);
 
-            if (yesResponses.containsAll(members.keySet())) {
+            int majority = (members.size() / 2) + 1;
+            if (yesResponses.size() >= majority) {
                 yesResponses.clear();
                 docnum++;
-                logMessage("All members agreed. Incremented docnum to " + docnum);
+                logMessage("Majority of members agreed. Incremented docnum to " + docnum);
             }
         }
     }
@@ -384,6 +419,7 @@ public class MulticastLeaderElection {
         try {
             leaderSocket = new DatagramSocket(LEADER_UNICAST_PORT);
             logMessage("Leader unicast socket initialized on port " + LEADER_UNICAST_PORT);
+
             new Thread(() -> listenForUnicastMessages()).start();
         } catch (IOException e) {
             logMessage("Failed to initialize leader unicast socket: " + e.getMessage());
@@ -401,11 +437,44 @@ public class MulticastLeaderElection {
                 leaderSocket.receive(packet);
     
                 String message = new String(packet.getData(), 0, packet.getLength());
+                InetAddress senderAddress = packet.getAddress();
+                int senderPort = packet.getPort();
+
                 if (message.startsWith("YES")) {
                     logMessage("Received: " + message);
                     processYesMessage(message);
                 } else if (message.startsWith("MENSAGEM")) {
                     processmensagemcliente(message);
+                }else if (message.startsWith("SYNCRO")) {
+                    StringBuilder messageBuilder = new StringBuilder();
+
+                    messageBuilder.append("SYNC")
+                                .append("|")
+                                .append(id)
+                                .append("|")
+                                .append(docnum)
+                                .append("|");
+
+                    // Adicionar elementos da lista até `docnum`
+                    for (int i = 0; i < docnum && i < localItems.size(); i++) {
+                        Item document = localItems.get(i);
+                        messageBuilder.append(document.getNome())
+                                    .append(";")
+                                    .append(document.getConteudo());
+                        
+                        // Adicionar separador entre documentos, exceto no último
+                        if (i < docnum - 1 && i < localItems.size() - 1) {
+                            messageBuilder.append("\n");
+                        }
+                    }
+
+                    
+
+                    String response = messageBuilder.toString();
+
+                    byte[] responseData = response.getBytes();
+                    DatagramPacket responsePacket = new DatagramPacket(responseData, responseData.length, senderAddress, senderPort);
+                    leaderSocket.send(responsePacket); // Enviar a resposta
                 }
             } catch (IOException e) {
             }
@@ -431,23 +500,88 @@ public class MulticastLeaderElection {
         socket.send(packet);
     }
 
-private static void logMessage(String message) {
-    System.out.println(message); // Print to terminal
-    try (PrintWriter out = new PrintWriter(new FileWriter("log.txt", true))) {
-        out.println(message); // Log to file
+    private static void logMessage(String message) {
+        System.out.println(message); // Print to terminal
+        try (PrintWriter out = new PrintWriter(new FileWriter("log.txt", true))) {
+            out.println(message); // Log to file
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static String readLogFile() throws IOException {
+        StringBuilder logContent = new StringBuilder();
+        try (BufferedReader br = new BufferedReader(new FileReader("log.txt"))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                logContent.append(line).append("\n");
+            }
+        }
+        return logContent.toString();
+    }
+
+    private static void sendUnicastSyncroRequest() {
+    String responseMessage = "";
+    String syncroMessage = "SYNCRO"; // Mensagem a ser enviada
+    byte[] buffer = new byte[1024];
+
+    try (DatagramSocket socket = new DatagramSocket()) {
+        // Criar o pacote de mensagem para o líder
+        byte[] messageBytes = syncroMessage.getBytes();
+        DatagramPacket packet = new DatagramPacket(messageBytes, messageBytes.length, currentleaderAddresses, LEADER_UNICAST_PORT);
+
+        // Enviar a mensagem para o líder
+        socket.send(packet);
+        System.out.println("Mensagem enviada: " + syncroMessage);
+
+        // Preparar pacote para receber a resposta
+        DatagramPacket responsePacket = new DatagramPacket(buffer, buffer.length);
+
+        // Aguardar resposta do líder
+        socket.setSoTimeout(2000); // Timeout de 2 segundos
+        try {
+            socket.receive(responsePacket);
+            responseMessage = new String(responsePacket.getData(), 0, responsePacket.getLength());
+            System.out.println("Resposta recebida: " + responseMessage);
+
+            String[] partes = responseMessage.split("\\|");
+
+            if (partes.length >= 4) {
+                String id = partes[1]; // Extrai o ID
+                int docnum = Integer.parseInt(partes[2]); // Extrai o número de documentos
+
+                // Extrair os documentos a partir da quarta parte
+                String[] documentos = partes[3].split("\n");
+
+                for (String documento : documentos) {
+                    String[] docPartes = documento.split(";");
+                    if (docPartes.length == 2) {
+                        String nome = docPartes[0].trim();
+                        String conteudo = docPartes[1].trim();
+
+                        // Criar um novo Item e adicioná-lo à lista
+                        Item item = new Item(nome, conteudo);
+                        localItems.add(item);
+                    }
+                }
+
+                // Exemplo de saída para verificar os valores recuperados
+                System.out.println("ID: " + id);
+                System.out.println("Número de Documentos: " + docnum + 1);
+                printList();
+                
+            }
+        } catch (SocketTimeoutException e) {
+            System.err.println("Timeout: Não foi possível receber resposta do líder.");
+        }
+
     } catch (IOException e) {
-        e.printStackTrace();
+        System.err.println("Erro na comunicação UDP: " + e.getMessage());
     }
 }
 
-private static String readLogFile() throws IOException {
-    StringBuilder logContent = new StringBuilder();
-    try (BufferedReader br = new BufferedReader(new FileReader("log.txt"))) {
-        String line;
-        while ((line = br.readLine()) != null) {
-            logContent.append(line).append("\n");
-        }
-    }
-    return logContent.toString();
-}
+
+
+
+
 }
