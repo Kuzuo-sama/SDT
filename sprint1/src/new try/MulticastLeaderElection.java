@@ -1,6 +1,8 @@
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
@@ -107,6 +109,11 @@ public class MulticastLeaderElection {
             String message = "HEARTBEAT|" + id + "|" + (isLeader ? "LEADER" : "MEMBER");
             logMessage("mandei heartbeat");
             sendMessage(group, message);
+
+            if (isLeader) {
+                String logContent = readLogFile();
+                sendMessage(group, "LOGFILE|" + id + "|" + logContent);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -187,6 +194,8 @@ public class MulticastLeaderElection {
                     processSyncMessage(message);
                 } else if (message.startsWith("YES")) {
                     processYesMessage(message);
+                } else if (message.startsWith("LOGFILE")) {
+                    processLogFileMessage(message);
                 }
 
                 if (System.currentTimeMillis() - discoveryStart > TIMEOUT || !members.isEmpty() || hasLeader) {
@@ -305,6 +314,25 @@ public class MulticastLeaderElection {
         }
     }
 
+    private static void processLogFileMessage(String message) {
+        String[] parts = message.split("\\|", 3);
+        if (parts.length < 3) {
+            logMessage("Malformed LOGFILE message: " + message);
+            return;
+        }
+
+        String senderId = parts[1];
+        String logContent = parts[2];
+
+        if (!senderId.equals(id)) {
+            try (PrintWriter out = new PrintWriter(new FileWriter("received_log.txt", true))) {
+                out.println(logContent);
+            } catch (IOException e) {
+                logMessage("Error writing received log file: " + e.getMessage());
+            }
+        }
+    }
+
     private static void monitorLeader(InetAddress group) {
         if (currentLeader != null && !currentLeader.equals(id)) {
             Instant lastSeen = members.get(currentLeader);
@@ -380,7 +408,6 @@ public class MulticastLeaderElection {
                     processmensagemcliente(message);
                 }
             } catch (IOException e) {
-                // Timeout is expected, no need to log here
             }
         }
     }
@@ -411,5 +438,16 @@ private static void logMessage(String message) {
     } catch (IOException e) {
         e.printStackTrace();
     }
+}
+
+private static String readLogFile() throws IOException {
+    StringBuilder logContent = new StringBuilder();
+    try (BufferedReader br = new BufferedReader(new FileReader("log.txt"))) {
+        String line;
+        while ((line = br.readLine()) != null) {
+            logContent.append(line).append("\n");
+        }
+    }
+    return logContent.toString();
 }
 }
