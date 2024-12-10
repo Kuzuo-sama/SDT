@@ -1,21 +1,17 @@
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
-import java.net.InetSocketAddress;
 import java.net.MulticastSocket;
-import java.net.Socket;
 import java.net.SocketTimeoutException;
 import java.time.Instant;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.concurrent.atomic.AtomicInteger;
 
 import newtry.Item;
 
@@ -28,7 +24,6 @@ public class MulticastLeaderElection {
     private static DatagramSocket leaderSocket;
     private static InetAddress currentleaderAddresses;
 
-    private static final AtomicInteger yesCount = new AtomicInteger(0);
     private static final Set<String> yesResponses = Collections.synchronizedSet(new HashSet<>());
     private static int docnum = 0;
     private static String id;
@@ -39,10 +34,10 @@ public class MulticastLeaderElection {
     private static final Map<String, Instant> members = new ConcurrentHashMap<>();
     
     private static List<Item> localItems = Collections.synchronizedList(new ArrayList<>());
-    private static final List<String> operationLog = Collections.synchronizedList(new ArrayList<>());
-
+    
     private static MulticastSocket socket;
 
+    @SuppressWarnings("deprecation")
     public static void main(String[] args) {
         try {
             id = "Member-" + Instant.now().toEpochMilli();
