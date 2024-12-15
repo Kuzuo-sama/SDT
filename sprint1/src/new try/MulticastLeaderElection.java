@@ -12,6 +12,8 @@ import java.time.Instant;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 import newtry.Item;
 
@@ -261,6 +263,11 @@ public class MulticastLeaderElection {
                     
                 }
 
+                if(localItems.size() != docnum + 1) {
+                    logMessage("Número de documentos não corresponde ao número informado");
+                    sendUnicastSyncroRequest();
+                }
+
                 logMessage("ID: " + id);
                 logMessage("Docnum: " + docnum);
                 logMessage("Nome: " + documento.getNome());
@@ -496,9 +503,19 @@ public class MulticastLeaderElection {
     }
 
     private static void logMessage(String message) {
-        System.out.println(message); // Print to terminal
+        String timestamp = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+        StringBuilder messageBuilder = new StringBuilder();
+
+                    messageBuilder.append(timestamp)
+                                .append(" - ")
+                                .append(message);
+        
+        
+        String logMessage = messageBuilder.toString();
+        
+        System.out.println(logMessage); // Print to terminal
         try (PrintWriter out = new PrintWriter(new FileWriter("log.txt", true))) {
-            out.println(message); // Log to file
+            out.println(logMessage); // Log to file
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -556,7 +573,12 @@ public class MulticastLeaderElection {
 
                         // Criar um novo Item e adicioná-lo à lista
                         Item item = new Item(nome, conteudo);
-                        localItems.add(item);
+                        for (Item localItem : localItems) {
+                            if (!localItem.getNome().equals(item.getNome())) {
+                                localItems.add(item);
+                            }
+                        }
+                        
                     }
                 }
 
